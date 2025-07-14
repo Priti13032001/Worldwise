@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Magana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-14T07:20:21.131Z",
+      "notes": "",
+      "position": {
+        "lat": "41.88592102814744",
+        "lng": "-2.1752929687500004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Magana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-14T07:20:21.131Z",
+      "notes": "",
+      "position": {
+        "lat": "41.88592102814744",
+        "lng": "-2.1752929687500004"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Madha",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-07-14T07:28:35.224Z",
+      "notes": "",
+      "position": {
+        "lat": "18.145851771694467",
+        "lng": "75.56396484375001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Madha",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-07-14T07:28:35.224Z",
+      "notes": "",
+      "position": {
+        "lat": "18.145851771694467",
+        "lng": "75.56396484375001"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Ahmadpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-07-14T07:28:43.795Z",
+      "notes": "",
+      "position": {
+        "lat": "18.771115062337024",
+        "lng": "76.92626953125001"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Ahmadpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-07-14T07:28:43.795Z",
+      "notes": "",
+      "position": {
+        "lat": "18.771115062337024",
+        "lng": "76.92626953125001"
+      },
+      "id": 6
+    }
+  ]
+}
